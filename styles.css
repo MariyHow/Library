@@ -146,6 +146,7 @@ button:active {
 .menu--open .menu__backdrop {
     display: flex;
     opacity: 1;
+    visibility: visible;
     transform: translate(0);
 }
 
